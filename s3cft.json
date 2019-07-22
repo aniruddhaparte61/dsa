@@ -5,7 +5,7 @@
 			 "mys3bucket": {
 				 "Type": "AWS::S3::Bucket",
 					 "Properties":{
-						"BucketName": "group4dbda1kjhg"
+						"BucketName": "group4dbda"
 					 		}
 					}
 				}
