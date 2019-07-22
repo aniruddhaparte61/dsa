@@ -2,10 +2,10 @@
 	 "AWSTemplateFormatVersion": "2010-09-09",
 	 "Description": "Simple S3 Bucket",
 		 "Resources": {
-			 "myS3Bucket": {
+			 "mys3bucket": {
 				 "Type": "AWS::S3::Bucket",
 					 "Properties":{
-						"BucketName": "Group_4_DBDA"
+						"BucketName": "group4dbda"
 					}
 				}
 			}
